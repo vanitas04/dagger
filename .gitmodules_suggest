@@ -1,0 +1,6 @@
+[submodule "boot/limine"]
+	path = boot/limine
+	url = https://github.com/limine-bootloader/limine.git 
+	#Faz um fork desse git e aponta do seu, o projeto de está muito bom para depender de terceiros
+	branch = v7.x-binary
+	shallow = false
